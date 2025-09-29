@@ -1,10 +1,10 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis version="3.36.3-Maidenhead">
-  <identifier>LPILLN_50K_ALL</identifier>
+  <identifier></identifier>
   <parentidentifier></parentidentifier>
-  <language>ENG</language>
+  <language></language>
   <type>dataset</type>
-  <title>LPILLN_50K_ALL</title>
+  <title></title>
   <abstract></abstract>
   <contact>
     <name></name>
