@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "INDONESIA_INDEX",
+"name": "INDONESIA_INDEX_POLY",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:ESRI::54034" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 1, "NLP": "2217-03" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 13618084.369999822229147, 101355.548288237449015 ], [ 13618084.369999822229147, 138207.174100615811767 ], [ 13655190.874352214857936, 138207.174100615811767 ], [ 13655190.874352214857936, 101355.548288237449015 ], [ 13618084.369999822229147, 101355.548288237449015 ] ] ] ] } },
