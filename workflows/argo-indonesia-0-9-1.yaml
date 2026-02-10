@@ -34,7 +34,7 @@ spec:
       - name: config
         value: "https://raw.githubusercontent.com/teguhsulistian/coastlines/refs/heads/main/configs/indonesia_coastlines_config.yaml"
       - name: overwrite
-        value: "--no-overwrite"
+        value: "--overwrite"
   templates:
     - name: coastlines-dag
       dag:
