@@ -28,7 +28,7 @@ spec:
       - name: image-tag
         value: "0.0.3"
       - name: result-version
-        value: "0.0.3.kdr" # change output version
+        value: "0.0.3.kdr2" # change output version
       - name: tiles-subset 
         value: '[\"1988,81\",\"1988,82\",\"1989,80\",\"1989,81\",\"1990,80\",\"1990,81\",\"1990,82\"]' #tiles Kendari location
       - name: config
